@@ -6,29 +6,44 @@ hide:
 ---
 # :octicons-home-24:
 ## Welcome to Tranquil
-### Discover serenity and support through our curated collection of mental health resources. 
 
-!!! tip inline ""
-    ### Applications :octicons-arrow-up-right-16:
+Discover serenity and support through our curated collection of mental health resources (1).
+{ .annotate }
 
-!!! tip inline ""
-    ### Books :octicons-arrow-up-right-16:
+1. Please note: This website is not a replacement for professional help.
 
-!!! tip inline ""
-    ### Podcasts :octicons-arrow-up-right-16:
 
-!!! tip inline ""
-    ### Newsletters :octicons-arrow-up-right-16:
+---
+To get started click on any of the below categories:
 
-!!! tip inline ""
-    ### Talks :octicons-arrow-up-right-16:
+!!! quote inline ""
+    ![](images/Applications.png)
+    ### [Applications :octicons-arrow-up-right-16:](index.md)
 
-!!! tip inline ""
-    ### Instagram :octicons-arrow-up-right-16:
+!!! quote inline ""
+    ![](images/Booksbooks.png)
+    ### [Books :octicons-arrow-up-right-16:](index.md)
 
-!!! tip inline ""
-    ### Youtube :octicons-arrow-up-right-16:
+!!! quote inline ""
+    ![](images/Podcasts.png)
+    ### [Podcasts :octicons-arrow-up-right-16:](index.md)
 
-!!! tip inline ""
-    ### Miscellenea :octicons-arrow-up-right-16:
+!!! quote inline ""
+    ![](images/Newsletters.png)
+    ### [Newsletters :octicons-arrow-up-right-16:](index.md)
 
+!!! quote inline ""
+    ![](images/Talks.png)
+    ### [Talks :octicons-arrow-up-right-16:](index.md)
+
+!!! quote inline ""
+    ![](images/Insta.png)
+    ### [Instagram :octicons-arrow-up-right-16:](index.md)
+
+!!! quote inline ""
+    ![](images/yt.png)
+    ### [Youtube :octicons-arrow-up-right-16:](index.md)
+
+!!! quote inline ""
+    ![](images/misc.png)
+    ### [Miscellenea :octicons-arrow-up-right-16:](index.md)
