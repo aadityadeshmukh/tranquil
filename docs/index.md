@@ -9,26 +9,26 @@ hide:
 ### Discover serenity and support through our curated collection of mental health resources. 
 
 !!! tip inline ""
-    ### Applications
+    ### Applications :octicons-arrow-up-right-16:
 
 !!! tip inline ""
-    ### Books
+    ### Books :octicons-arrow-up-right-16:
 
 !!! tip inline ""
-    ### Podcasts
+    ### Podcasts :octicons-arrow-up-right-16:
 
 !!! tip inline ""
-    ### Newsletters
+    ### Newsletters :octicons-arrow-up-right-16:
 
 !!! tip inline ""
-    ### Talks
+    ### Talks :octicons-arrow-up-right-16:
 
 !!! tip inline ""
-    ### Instagram
+    ### Instagram :octicons-arrow-up-right-16:
 
 !!! tip inline ""
-    ### Youtube
+    ### Youtube :octicons-arrow-up-right-16:
 
 !!! tip inline ""
-    ### Miscellenea
+    ### Miscellenea :octicons-arrow-up-right-16:
 
